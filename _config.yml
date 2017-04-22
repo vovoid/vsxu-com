@@ -1,0 +1,39 @@
+# Site settings
+exclude: attic
+title: VSXu - audio visualizer, music visualizer, visual programming language (VPL), realtime graphics design platform
+subtitle: by Vovoid Media Technologies AB
+email: youremailaddress@gmail.com
+description: Visualize your music with VSXu<br/><i>The</i> audio visualizer<br/><br/> <a href="/documentation/changelog">v0.6.0</a> out now!<br/>(2017-03)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://new.vsxu.com" # the base hostname & protocol for your site
+author:
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
+current_version: v0.6.0
+current_version_date: 2017-04-02
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/VovoidVSXu
+github_url: https://github.com/vovoid/vsxu
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/VSXu
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
