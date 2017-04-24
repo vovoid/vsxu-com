@@ -52,7 +52,7 @@ main_menu: yes
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
                 ">Installer for Windows (64-bit)</a><br/>
-                Contains VSXu Artiste and VSXu Player
+                VSXu Artiste and VSXu Player
             </p>
             
             <p id="download_linux" style="display:none">
@@ -64,7 +64,7 @@ main_menu: yes
                 ">AppImage for GNU/Linux (64-bit)</a>
                 
                 <br/>
-                Contains VSXu Artiste, VSXu Player and VSXu Profiler.<br>
+                VSXu Artiste, VSXu Player and VSXu Profiler.<br>
                 <br>
                 To run, set execution flag on the file and just run it. Most desktop environments understand this type of file
                 so if you put it on your Desktop for instance - you can usually just double click it.
