@@ -32,6 +32,8 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/VSXu
 twitch_url: https://www.twitch.tv/vmediatech
+reddit_url: https://www.reddit.com/r/VSXu/
+youtube_url: https://www.youtube.com/user/VSXu
 
 # Build settings
 markdown: kramdown
