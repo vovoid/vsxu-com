@@ -90,8 +90,8 @@ main_menu: yes
             <p>&nbsp;</p>
 
             <div style="display:none" id="paypal">
-                <h2>Thanks for downloading!</h2>
-                <h3>Please support the project by liking or donating:</h3>
+                <h2>Thank you for downloading!</h2>
+                <h3>Please support the project:</h3>
                 <table>
                 <tr>
                 <td style="width:50%;">
