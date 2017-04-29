@@ -45,7 +45,7 @@ main_menu: yes
 
             </ul>
         
-            <span id="before_download_windows">/<span>
+            <span id="before_download_windows"></span>
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
                 <a href="#before_support"
@@ -56,7 +56,7 @@ main_menu: yes
                 VSXu Artiste and VSXu Player
             </p>
             
-            <span id="before_download_windows">/<span>
+            <span id="before_download_linux"></span>
             <p id="download_linux" style="display:none">
                 <span class="icon fa-linux"></span>
                 <a href="#before_support" 
@@ -72,7 +72,7 @@ main_menu: yes
                 so if you put it on your Desktop for instance - you can usually just double click it.
             </p>
 
-            <span id="before_download_windows">/<span>
+            <span id="before_download_source"></span>
             <p id="download_source" style="display:none">
                 VSXu is written in C++ and hosted on GitHub.<br/>
                 <span class="icon fa-github"></span>
@@ -84,7 +84,7 @@ main_menu: yes
                 See the INSTALL file for more information.
             </p>
 
-            <span id="before_support">/<span>
+            <span id="before_support"></span>
             <div style="display:none" id="paypal">
                 <h2>Thanks for downloading!</h2>
                 <h3>Donate / Follow</h3>
