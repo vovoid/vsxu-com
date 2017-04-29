@@ -47,9 +47,11 @@ main_menu: yes
 
             </ul>
         
+            <span id="before_download_buttons"></span>
+
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
-                <a href="#before_support"
+                <a href="#before_download_buttons"
                  onClick="
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -59,7 +61,7 @@ main_menu: yes
             
             <p id="download_linux" style="display:none">
                 <span class="icon fa-linux"></span>
-                <a href="#before_support" 
+                <a href="#before_download_buttons" 
                 onClick="
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -83,7 +85,6 @@ main_menu: yes
                 See the INSTALL file for more information.
             </p>
 
-            <span id="before_support"></span>
             <div style="display:none" id="paypal">
                 <h2>Thanks for downloading!</h2>
                 <h3>Donate / Follow</h3>
