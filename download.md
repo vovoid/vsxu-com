@@ -51,7 +51,7 @@ main_menu: yes
 
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
-                <a href="#before_download_buttons"
+                <a href="#before_support"
                  onClick="
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -61,7 +61,7 @@ main_menu: yes
             
             <p id="download_linux" style="display:none">
                 <span class="icon fa-linux"></span>
-                <a href="#before_download_buttons" 
+                <a href="#before_support" 
                 onClick="
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -84,6 +84,9 @@ main_menu: yes
                 VSXu is built with CMake which means you can use any editor, but in terms of IDE's we recommend either QtCreator (Linux/Windows) or Visual Studio (Windows).<br>
                 See the INSTALL file for more information.
             </p>
+
+
+            <p id="before_support">&nbsp;</p>
 
             <div style="display:none" id="paypal">
                 <h2>Thanks for downloading!</h2>
