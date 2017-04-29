@@ -51,21 +51,23 @@ main_menu: yes
 
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
-                <a href="#before_support"
+                <a href=""
                  onClick="
+                    location.hash = '#before_support';
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
-                ">Installer for Windows (64-bit)</a><br/>
+                ">Download Installer for Windows (64-bit)</a><br/>
                 VSXu Artiste and VSXu Player
             </p>
             
             <p id="download_linux" style="display:none">
                 <span class="icon fa-linux"></span>
-                <a href="#before_support" 
+                <a href="" 
                 onClick="
+                    location.hash = '#before_support';
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
-                ">AppImage for GNU/Linux (64-bit)</a>
+                ">Download AppImage for GNU/Linux (64-bit)</a>
                 
                 <br/>
                 VSXu Artiste, VSXu Player and VSXu Profiler.<br>
@@ -78,7 +80,13 @@ main_menu: yes
                 VSXu is written in C++ and hosted on GitHub.<br/>
                 <span class="icon fa-github"></span>
                 <a href="https://github.com/vovoid/vsxu" 
-                    target="_blank">Go to github (new window)</a><br>
+                    target="_blank"
+                    onClick="
+                        location.hash = '#before_support';
+                        analytics.trackDownloadEvent('{site.current_version} github');
+                        document.getElementById('paypal').style.display = 'block';
+                    "
+                    >Go to github (new window)</a><br>
                 <br>
                 VSXu is generally developed under Linux, but now (since 0.6.0) you can develop equally well on Windows.<br>
                 VSXu is built with CMake which means you can use any editor, but in terms of IDE's we recommend either QtCreator (Linux/Windows) or Visual Studio (Windows).<br>
