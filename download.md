@@ -87,6 +87,7 @@ main_menu: yes
 
 
             <p id="before_support">&nbsp;</p>
+            <p>&nbsp;</p>
 
             <div style="display:none" id="paypal">
                 <h2>Thanks for downloading!</h2>
