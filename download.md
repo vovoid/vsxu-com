@@ -47,7 +47,7 @@ main_menu: yes
 
             </ul>
         
-            <p id="before_download_buttons"></p>
+            <p id="before_download_buttons">&nbsp;</p>
 
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
