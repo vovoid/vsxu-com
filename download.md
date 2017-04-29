@@ -17,7 +17,7 @@ main_menu: yes
               VSXu is free from adware, spyware and drive by installs.
             </p>
             <ul class="actions horizontal">
-                <li><a href="#download_windows" class="button" 
+                <li><a href="#before_download_windows" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'block'; 
                     document.getElementById('download_linux').style.display = 'none';
@@ -25,7 +25,7 @@ main_menu: yes
                     document.getElementById('paypal').style.display = 'none';
                 "
                 >Windows</a></li>
-                <li><a href="#download_linux" class="button" 
+                <li><a href="#before_download_linux" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'none'; 
                     document.getElementById('download_linux').style.display = 'block';
@@ -34,7 +34,7 @@ main_menu: yes
                 "
                 >GNU/Linux</a></li>
                 
-                <li><a href="#" class="button" 
+                <li><a href="#before_download_source" class="button" 
                 onClick="
                     document.getElementById('download_windows').style.display = 'none'; 
                     document.getElementById('download_linux').style.display = 'none';
@@ -45,9 +45,10 @@ main_menu: yes
 
             </ul>
         
+            <span id="before_download_windows">/<span>
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
-                <a href="#"
+                <a href="#before_support"
                  onClick="
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -55,9 +56,10 @@ main_menu: yes
                 VSXu Artiste and VSXu Player
             </p>
             
+            <span id="before_download_windows">/<span>
             <p id="download_linux" style="display:none">
                 <span class="icon fa-linux"></span>
-                <a href="#" 
+                <a href="#before_support" 
                 onClick="
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
                     document.getElementById('paypal').style.display = 'block';
@@ -70,6 +72,7 @@ main_menu: yes
                 so if you put it on your Desktop for instance - you can usually just double click it.
             </p>
 
+            <span id="before_download_windows">/<span>
             <p id="download_source" style="display:none">
                 VSXu is written in C++ and hosted on GitHub.<br/>
                 <span class="icon fa-github"></span>
@@ -81,6 +84,7 @@ main_menu: yes
                 See the INSTALL file for more information.
             </p>
 
+            <span id="before_support">/<span>
             <div style="display:none" id="paypal">
                 <h2>Thanks for downloading!</h2>
                 <h3>Donate / Follow</h3>
