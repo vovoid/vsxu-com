@@ -42,7 +42,7 @@ permalink: /documentation/changelog
             </header>
 
             
-<h4>VSXu 0.6.0 (March 2017)</h4>
+<h4>VSXu 0.6.0 (April 30 2017)</h4>
 
             <ul class="actions horizontal">
                 <li><a href="/download" class="button">Download now!</a></li>
