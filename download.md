@@ -51,7 +51,7 @@ main_menu: yes
 
             <p id="download_windows" style="display:none">
                 <span class="icon fa-windows"></span>
-                <a href=""
+                <a href="https://github.com/vovoid/vsxu/releases/download/v0.6.0/VSXu_0.6.0_amd64.exe"
                  onClick="
                     location.hash = '#before_support';
                     analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
@@ -62,7 +62,7 @@ main_menu: yes
             
             <p id="download_linux" style="display:none">
                 <span class="icon fa-linux"></span>
-                <a href="" 
+                <a href="https://github.com/vovoid/vsxu/releases/download/v0.6.0/VSXu-0.6.0.glibc2.15.AppImage" 
                 onClick="
                     location.hash = '#before_support';
                     analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
