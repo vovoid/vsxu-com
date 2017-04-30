@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation-faq.md" afterPath="$PROJECT_DIR$/documentation-faq.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,12 +53,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="documentation-faq.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/documentation-faq.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1199">
+                <caret line="196" column="30" lean-forward="false" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -127,7 +140,6 @@
         <option value="$PROJECT_DIR$/template.md" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/documentation.md" />
-        <option value="$PROJECT_DIR$/documentation-faq.md" />
         <option value="$PROJECT_DIR$/documentation-video-tutorials.md" />
         <option value="$PROJECT_DIR$/documentation-vsxu-live.md" />
         <option value="$PROJECT_DIR$/development.md" />
@@ -144,6 +156,7 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/download.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/documentation-faq.md" />
       </list>
     </option>
   </component>
@@ -283,7 +296,7 @@
       <workItem from="1492611810365" duration="3406000" />
       <workItem from="1493031710130" duration="2809000" />
       <workItem from="1493207567678" duration="38000" />
-      <workItem from="1493484816930" duration="2409000" />
+      <workItem from="1493484816930" duration="2869000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -303,7 +316,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45233000" />
+    <option name="totallyTimeSpent" value="45693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -599,16 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation-faq.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -772,6 +775,17 @@
         <state relative-caret-position="288">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation-faq.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1199">
+            <caret line="196" column="30" lean-forward="false" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

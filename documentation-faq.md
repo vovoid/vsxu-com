@@ -194,7 +194,7 @@ permalink: /documentation/faq
                             a platform that simply does not deliver.<br>
                             <br>
                             Should this change (VR coming along etc) we will of course reconsider.<br>
-                            
+                          </p>
                       </div>
       </div>
   </section>
