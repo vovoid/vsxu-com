@@ -5,7 +5,7 @@ subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
 description: Experience music in <a href="/about/" onClick="analytics.trackDownloadEvent('home about');">new ways</a><br/>Visualize your music with VSXu<br/><br/><br/><a href="/documentation/changelog">v0.6.0</a> out now!<br/>(2017-04-30)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://new.vsxu.com" # the base hostname & protocol for your site
+url: "http://www.vsxu.com" # the base hostname & protocol for your site
 author:
 street_address:
 city:
