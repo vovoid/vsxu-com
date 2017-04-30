@@ -3,7 +3,7 @@ exclude: attic
 title: VSXu - audio visualizer, music visualizer, visual programming language (VPL), realtime graphics design platform
 subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
-description: Experience music in <a href="/about/" onClick="analytics.trackDownloadEvent('home about');">new ways</a><br/>Visualize your music with VSXu<br/><br/><br/><a href="/documentation/changelog">v0.6.0</a> out now!<br/>(2017-03)
+description: Experience music in <a href="/about/" onClick="analytics.trackDownloadEvent('home about');">new ways</a><br/>Visualize your music with VSXu<br/><br/><br/><a href="/documentation/changelog">v0.6.0</a> out now!<br/>(2017-04-30)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://new.vsxu.com" # the base hostname & protocol for your site
 author:
@@ -14,7 +14,7 @@ zip_code:
 country:
 phone:
 current_version: v0.6.0
-current_version_date: 2017-04-02
+current_version_date: 2017-04-30
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
