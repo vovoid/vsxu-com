@@ -41,12 +41,20 @@ permalink: /documentation/changelog
                 </h1>
             </header>
 
-            
-<h4>VSXu 0.6.0 (April 30 2017)</h4>
-
+<h4>VSXu 0.6.1 (May 19 2017)</h4>            
             <ul class="actions horizontal">
                 <li><a href="/download" class="button">Download now!</a></li>
             </ul>
+<pre>
+  Bug fix / Patch release
+
+  ' menu text too small in sequencer
+  ' not possible to close master channel item / segfault
+</pre>
+
+
+<h4>VSXu 0.6.0 (April 30 2017)</h4>
+
 
 <pre>
 Feature wise, VSXu 0.6.0 might just look like a patch release (0.5.1 was broken on many graphics drivers).
