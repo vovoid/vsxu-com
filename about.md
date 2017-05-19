@@ -27,7 +27,7 @@ main_menu: yes
             <iframe src="https://www.youtube.com/embed/e4KI2Ibvub4?ecver=1&autoplay=1" frameborder="0" allowfullscreen style="width: 63em; height: 30em; border:1px solid white;"></iframe>
                 <br>
                 Music: "Crazy" by Ashleigh Ball, her first Solo EP coming soon!<br>
-                Go follow her! 
+                More about Ashleigh here: 
                 <a href="https://www.youtube.com/channel/UCOSYjc3XeXCnaTFdjEey1_w" class="icon alt fa-youtube" target="_blank"></a>
                 <a href="https://www.facebook.com/ash.person" class="icon alt fa-facebook" target="_blank"></a>
                 <a href="https://www.instagram.com/ashperson/" class="icon alt fa-instagram" target="_blank"></a>
