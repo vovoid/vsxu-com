@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vsxu.com.iml" afterPath="$PROJECT_DIR$/.idea/vsxu.com.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download.md" afterPath="$PROJECT_DIR$/download.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,8 +83,8 @@
         <entry file="file://$PROJECT_DIR$/download.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1199">
-                <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+              <first_editor relative-caret-position="1181">
+                <caret line="131" column="508" lean-forward="false" selection-start-line="131" selection-start-column="508" selection-end-line="131" selection-end-column="508" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -368,7 +367,7 @@
       <workItem from="1495285850457" duration="38000" />
       <workItem from="1495966023326" duration="69000" />
       <workItem from="1495966200935" duration="443000" />
-      <workItem from="1496066830219" duration="24000" />
+      <workItem from="1496066830219" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -388,7 +387,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52057000" />
+    <option name="totallyTimeSpent" value="52130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1600" extended-state="6" />
@@ -860,8 +859,8 @@
     <entry file="file://$PROJECT_DIR$/download.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1199">
-            <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <first_editor relative-caret-position="1181">
+            <caret line="131" column="508" lean-forward="false" selection-start-line="131" selection-start-column="508" selection-end-line="131" selection-end-column="508" />
             <folding />
           </first_editor>
           <second_editor />
