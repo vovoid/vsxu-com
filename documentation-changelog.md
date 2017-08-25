@@ -41,6 +41,22 @@ permalink: /documentation/changelog
                 </h1>
             </header>
 
+<h4>VSXu 0.6.2 (August 25 2017)</h4>            
+            <ul class="actions horizontal">
+                <li><a href="/download" class="button">Download now!</a></li>
+            </ul>
+<pre>
+  Bug fix / Patch release
+
+  + following new Luna design, Luna graphics updated
+  ' vsx export from artiste broken
+  ' when only loading one .vsx visual in player, it would hang in an endless loop
+  ' mesh particle system module ceased to work when lowering the number of particles in artiste
+  ' bitmap loading from engine when archive loaded caused crash because the archive was closed too early.
+    Now the archive is open during the whole run of the engine, using more memory, but at the same time allowing for
+    asynchronous load times and loading of data later.
+</pre>
+
 <h4>VSXu 0.6.1 (May 19 2017)</h4>            
             <ul class="actions horizontal">
                 <li><a href="/download" class="button">Download now!</a></li>
