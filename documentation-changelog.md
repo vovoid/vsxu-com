@@ -58,9 +58,6 @@ permalink: /documentation/changelog
 </pre>
 
 <h4>VSXu 0.6.1 (May 19 2017)</h4>            
-            <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download now!</a></li>
-            </ul>
 <pre>
   Bug fix / Patch release
 
