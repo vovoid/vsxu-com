@@ -130,6 +130,8 @@ main_menu: yes
                     <br>
                     <br>
                     <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="http://platform.twitter.com/widgets/follow_button.89bd237a86eeb0e8b1de842a4b88b09b.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=VovoidMediaTech&amp;show_count=true&amp;show_screen_name=true&amp;size=l&amp;time=1490522543370" style="position: static; visibility: visible; width: 300px; height: 28px;" data-screen-name="VovoidMediaTech"></iframe>
+                    <br>
+                    <a href="https://discord.gg/gD6reEb">Join us on Discord</a>
                  </td>
                  </tr>
                  </table>
