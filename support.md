@@ -26,7 +26,7 @@ main_menu: yes
             </p>
 
             <p>
-            If you need personal help, please step by <a href="/support/irc">irc</a> and say hi but some things are better described as <a href="http://github.com/vovoid/vsxu">github issues</a>.
+            If you need personal help, please step by <a href="https://discord.gg/gD6reEb" target="_blank">our discord</a> or <a href="/support/irc">irc channel</a> and say hi but some things are better described as <a href="http://github.com/vovoid/vsxu">github issues</a>.
             
             Either way, we hope we have a good answer for you!
             
