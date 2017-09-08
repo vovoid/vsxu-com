@@ -13,9 +13,6 @@ main_menu: yes
             <p>
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }}
             </p>
-            <p>
-              VSXu is free from adware, spyware and drive by installs.
-            </p>
             <span id="before_download"></span>
 
             <ul class="actions horizontal">
