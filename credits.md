@@ -37,6 +37,10 @@ main_menu: yes
             <a href="http://mingw-w64.sourceforge.net/">mingw-w64</a> (cross-compilation for windows)<br>
             <a href="http://valgrind.org">valgrind</a> (memory debugger)<br>
           </p>
+          <h2>We like and endorse</h2>
+          <p>
+            <a href="https://gamecompanies.com/">Game Companies - community for game developers</a>
+          </p>
       </div>
   </section>
 </div>
