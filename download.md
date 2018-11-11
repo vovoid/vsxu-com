@@ -102,7 +102,7 @@ main_menu: yes
                 <td style="width:50%;">
                     <h4>Sponsor</h4>
                     <p>
-                        This release is sponsored by Lobro Watch, go check him out on <a href="http://twitch.tv/lobrowatch">twitch.tv/lobrowatch</a>
+                        This release is sponsored by Lobro Watch, go check him out on <a href="http://twitch.tv/lobrowatch">twitch.tv/lobrowatch</a><br>
                         He sponsored the development of visual "Glowstick Hyperspace".
                     </p>
                     <h4>Buy us coffee!</h4>
