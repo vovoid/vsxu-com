@@ -41,6 +41,21 @@ permalink: /documentation/changelog
                 </h1>
             </header>
 
+<h4>VSXu 0.6.3 (November 11 2018)</h4>            
+            <ul class="actions horizontal">
+                <li><a href="/download" class="button">Download now!</a></li>
+            </ul>
+<pre>
+  Bug fix / Patch release
+
+  + new visual: Glowstick Hyperspace sponsored by Lobro Watch (twitch.tv/lobrowatch)
+  + support for choosing sound input device in launcher. Works for artiste and player.
+  + Windows: new default sound backend for windows which allows listener to visualize straight off of outputs
+  + Linux: Better handling of App Image
+  ' Bug fix (unhandled exception) in Akai APC 40 code
+  ' Selectors re-introduced since bugs fixed
+</pre>
+
 <h4>VSXu 0.6.2 (August 25 2017)</h4>            
             <ul class="actions horizontal">
                 <li><a href="/download" class="button">Download now!</a></li>

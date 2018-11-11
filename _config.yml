@@ -3,7 +3,7 @@ exclude: attic
 title: VSXu - audio visualizer, music visualizer, visual programming language (VPL), realtime graphics design platform
 subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
-description: Experience music in <a href="/about/" onClick="analytics.trackDownloadEvent('home about');">new ways</a><br/>Visualize your music with VSXu<br/><br/><br/><a href="/documentation/changelog">v0.6.2</a> (2017-08-25)
+description: Experience music in <a href="/about/" onClick="analytics.trackDownloadEvent('home about');">new ways</a><br/>Visualize your music with VSXu<br/><br/><br/><a href="/documentation/changelog">v0.6.3</a> (2018-11-11)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.vsxu.com" # the base hostname & protocol for your site
 author:
@@ -13,10 +13,10 @@ state:
 zip_code:
 country:
 phone:
-current_version: v0.6.2
-current_version_date: 2017-08-25
-download_windows_url: https://github.com/vovoid/vsxu/releases/download/v0.6.2/VSXu_0.6.2_amd64.exe
-download_linux_url: https://github.com/vovoid/vsxu/releases/download/v0.6.2/VSXu-0.6.2.glibc2.15.AppImage
+current_version: v0.6.3
+current_version_date: 2018-11-11
+download_windows_url: https://github.com/vovoid/vsxu/releases/download/v0.6.3/VSXu_0.6.3_amd64.exe
+download_linux_url: https://github.com/vovoid/vsxu/releases/download/v0.6.3/VSXu-0.6.3.glibc2.17.AppImage
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
