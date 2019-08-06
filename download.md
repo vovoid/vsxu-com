@@ -96,13 +96,13 @@ main_menu: yes
 
             <div style="display:none" id="paypal">
                 <h2>Thank you for downloading!</h2>
-                <h3>Please support the project:</h3>
+                <h3>We invite you to:</h3>
                 <table>
                 <tr>
                 <td style="width:50%;">
                     <h4><a href="https://store.steampowered.com/app/929630/Luna_Sky_RDX/">Check out our game</a>:</h4>
                     <iframe src="https://store.steampowered.com/widget/929630/" frameborder="0" width="646" height="190"></iframe>
-                    <h4>Paypal Donate</h4>
+                    <h4>Donate via Paypal:</h4>
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
