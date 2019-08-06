@@ -100,12 +100,8 @@ main_menu: yes
                 <table>
                 <tr>
                 <td style="width:50%;">
-                    <h4>Sponsor</h4>
-                    <p>
-                        This release is sponsored by Lobro Watch, go check him out on <a href="http://twitch.tv/lobrowatch">twitch.tv/LobroWatch</a><br>
-                        He sponsored the development of visual "Glowstick Hyperspace".
-                    </p>
-                    <h4>Buy us coffee!</h4>
+                    <iframe src="https://store.steampowered.com/widget/929630/" frameborder="0" width="646" height="190"></iframe>
+                    <h4>Paypal Donate</h4>
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
