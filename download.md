@@ -100,6 +100,7 @@ main_menu: yes
                 <table>
                 <tr>
                 <td style="width:50%;">
+                    <h4>Check out our game:</h4>
                     <iframe src="https://store.steampowered.com/widget/929630/" frameborder="0" width="646" height="190"></iframe>
                     <h4>Paypal Donate</h4>
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
