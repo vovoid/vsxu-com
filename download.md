@@ -22,7 +22,6 @@ main_menu: yes
                   "
                   >VSXu Player</a></li>
               </ul>
-
               <i>If you specifically want to create visuals, get Artiste:</i><br/>
               <br/>
                   <ul class="actions horizontal">
