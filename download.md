@@ -10,6 +10,7 @@ main_menu: yes
             <header class="major">
                 <h1>Download VSXu</h1>
             </header>
+            
             <p id="initial_choice">
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }} <br/>
               System Requirements: Windows 10 64-bit, Nvidia or AMD GPU<br/>
