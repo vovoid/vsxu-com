@@ -16,7 +16,7 @@ main_menu: yes
                 <h1>Support</h1>
             </header>
             <p>
-                "Please help, my Percutor-fluxxomat is singing "Oh la la!" and dancing in a circle!<br/>
+                "Please help, my Percutor-fluxxomat is singing 'Oh la la and a bucket of bacon!' and is dancing in a circle!<br/>"
                 <br/>
                 We provide different ways to get support.
             </p>
