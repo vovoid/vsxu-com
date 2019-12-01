@@ -16,7 +16,7 @@ permalink: /support/commercial
                 <h1>Support - Commercial</h1>
             </header>
             
-            <p>Commercial support and visualization licensing is offered by Vovoid Media Technologies AB
+            <p>Commercial support, code and visualization licensing is offered by Vovoid Media Technologies AB, Sweden
             </p>
             <p>
               E-mail: sales /.at'/ vovoid.com
