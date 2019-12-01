@@ -11,86 +11,42 @@ main_menu: yes
                 <h1>Download VSXu</h1>
             </header>
             <p>
-              Current Version: {{ site.current_version }} Released {{ site.current_version_date }}
+              Current Version: {{ site.current_version }} Released {{ site.current_version_date }} 
+              System Requirements: Windows 10 64-bit, Nvidia or AMD GPU
             </p>
             <span id="before_download"></span>
 
             <ul class="actions horizontal">
                 <li><a href="#before_download" class="button" 
                 onClick="
+                    document.getElementById('download_player').style.display = 'block'; 
+                "
+                >VSXu Player</a></li>
+                <li><a href="#before_download" class="button" 
+                onClick="
                     document.getElementById('download_windows').style.display = 'block'; 
-                    document.getElementById('download_linux').style.display = 'none';
-                    document.getElementById('download_source').style.display = 'none';
-                    document.getElementById('paypal').style.display = 'none';
                 "
-                >Windows</a></li>
-                <li><a href="#before_download" class="button" 
-                onClick="
-                    document.getElementById('download_windows').style.display = 'none'; 
-                    document.getElementById('download_linux').style.display = 'block';
-                    document.getElementById('download_source').style.display = 'none';
-                    document.getElementById('paypal').style.display = 'none';
-                "
-                >GNU/Linux</a></li>
-                
-                <li><a href="#before_download" class="button" 
-                onClick="
-                    document.getElementById('download_windows').style.display = 'none'; 
-                    document.getElementById('download_linux').style.display = 'none';
-                    document.getElementById('download_source').style.display = 'block';
-                    document.getElementById('paypal').style.display = 'block';
-                "
-                >Source Code</a></li>
-
+                >VSXu Artiste</a></li>
             </ul>
         
             <p id="before_download_buttons">&nbsp;</p>
 
-            <p id="download_windows" style="display:none">
+            <p id="download_player" style="display:none">
                 <span class="icon fa-windows"></span>
-                <a href="{{ site.download_windows_url }}"
-                 onClick="
-                    location.hash = '#before_support';
-                    analytics.trackDownloadEvent('{site.current_version} windows 64-bit installer');
-                    document.getElementById('paypal').style.display = 'block';
-                ">Download Installer for Windows (64-bit)</a><br/>
-                VSXu Artiste and VSXu Player
+                VSXu Player is now available through Steam.<br/>
+                This has a number of benefits for you - including automatic updates, more visuals and new features.<br/>   
+                <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">VSXu Player on Steam</a><br/>
             </p>
             
-            <p id="download_linux" style="display:none">
-                <span class="icon fa-linux"></span>
-                <a href="{{ site.download_linux_url }}" 
-                onClick="
-                    location.hash = '#before_support';
-                    analytics.trackDownloadEvent('{site.current_version} linux 64-bit installer');
-                    document.getElementById('paypal').style.display = 'block';
-                ">Download AppImage for GNU/Linux (64-bit)</a>
-                
+            <p id="download_artiste" style="display:none">
+                <span class="icon fa-windows"></span>
+                You can download the previous version of VSXu Artiste here:  
+                <a href="#" target="_blank">VSXu Artiste v0.6.3 for Windows 64-bit</a><br/>
                 <br/>
-                VSXu Artiste, VSXu Player and VSXu Profiler.<br>
-                <br>
-                To run, set execution flag on the file and just run it. Most desktop environments understand this type of file
-                so if you put it on your Desktop for instance - you can usually just double click it.
+                Please also check out the Steam version of VSXu Player where you can get additional DLC for player:<br>
+                <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">VSXu Player on Steam</a><br/>
             </p>
-
-            <p id="download_source" style="display:none">
-                VSXu is written in C++ and hosted on GitHub.<br/>
-                <span class="icon fa-github"></span>
-                <a href="https://github.com/vovoid/vsxu" 
-                    target="_blank"
-                    onClick="
-                        location.hash = '#before_support';
-                        analytics.trackDownloadEvent('{site.current_version} github');
-                        document.getElementById('paypal').style.display = 'block';
-                    "
-                    >Go to github (new window)</a><br>
-                <br>
-                VSXu is generally developed under Linux, but now (since 0.6.0) you can develop equally well on Windows.<br>
-                VSXu is built with CMake which means you can use any editor, but in terms of IDE's we recommend either QtCreator (Linux/Windows) or Visual Studio (Windows).<br>
-                See the INSTALL file for more information.
-            </p>
-
-
+            
             <p id="before_support">&nbsp;</p>
             <p>&nbsp;</p>
 
@@ -102,26 +58,6 @@ main_menu: yes
                 <td style="width:50%;">
                     <h4><a href="https://store.steampowered.com/app/929630/Luna_Sky_RDX/">Check out our game</a>:</h4>
                     <iframe src="https://store.steampowered.com/widget/929630/" frameborder="0" width="646" height="190"></iframe>
-                    <h4>Donate via Paypal:</h4>
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                        <input type="hidden" name="cmd" value="_s-xclick">
-                        <input type="hidden" name="hosted_button_id" value="M8F8R67LFC3M2">
-                        <input type="hidden" name="on0" value="Yes! I want to">
-                        <select name="os0">
-                            <option value="Donate Casual">Donate Casual $3,00 USD</option>
-                            <option value="Donate Fair">Donate Fair $5,00 USD</option>
-                            <option value="Donate Cute">Donate Cute $10,00 USD</option>
-                            <option value="Donate Great">Donate Great $15,00 USD</option>
-                            <option value="Donate Sweet">Donate Sweet $20,00 USD</option>
-                            <option value="Donate Wow">Donate Wow $30,00 USD</option>
-                            <option value="Donate Super">Donate Awesome $50,00 USD</option>
-                            <option value="Donate Awesome">Donate Super Awesome $100,00 USD</option>
-                        </select>
-                        <input type="hidden" name="currency_code" value="USD">
-                        <br>
-                        <input type="image" src="https://www.paypalobjects.com/en_US/SE/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                        <img alt="" border="0" src="https://www.paypalobjects.com/sv_SE/i/scr/pixel.gif" width="1" height="1">
-                    </form>
                 </td>
                 <td style="width:50%">
                     <h4>Like us on Facebook!</h4>
