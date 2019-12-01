@@ -18,7 +18,7 @@ main_menu: yes
             <p>
                 "Please help, my Percutor-fluxxomat is singing 'Oh la la and a bucket of bacon!' and is dancing in a circle!<br/>"
                 <br/>
-                We provide different ways to get support.
+                Sorry about that, do you have any VSXu-related questions?
             </p>
             
             <p>
