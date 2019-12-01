@@ -60,13 +60,10 @@ permalink: /products/player
                   >Download VSXu Player!</a></li>
               </ul>
                           
-            <h2>REMOVING TRANSITIONS</h2>
-            <p>
-                Transitions can be added or removed inside the _visuals_faders directory.
-            </p>
             <h2>PLEASE SUPPORT VSXU</h2>
             <p>
-                If you're a DJ or VJ and are using this software for large events, send in some screen shots or donate to the project using the paypal link below.
+                If you're a DJ or VJ and are using this software for large events or online streaming, 
+                please consider buying our DLC packs to support the project and further development!
             </p>
         </div>
     </section>
