@@ -72,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/download.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+              <first_editor relative-caret-position="646">
+                <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,8 +141,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>horizontal</find>
-      <find>body</find>
       <find>banner:after</find>
       <find>color</find>
       <find>banner</find>
@@ -171,6 +169,8 @@
       <find>discord</find>
       <find>before_support</find>
       <find>0.6.3</find>
+      <find>before_download_buttons</find>
+      <find>before_download</find>
     </findStrings>
     <replaceStrings>
       <replace>/assets/images/screenshots</replace>
@@ -320,7 +320,7 @@
       <workItem from="1505050034638" duration="9000" />
       <workItem from="1520683697471" duration="63000" />
       <workItem from="1541960575210" duration="915000" />
-      <workItem from="1575226944703" duration="1709000" />
+      <workItem from="1575226944703" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -340,7 +340,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56706000" />
+    <option name="totallyTimeSpent" value="56875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="3024" height="1742" extended-state="6" />
@@ -767,8 +767,8 @@
     <entry file="file://$PROJECT_DIR$/download.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="425">
-            <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+          <first_editor relative-caret-position="646">
+            <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>

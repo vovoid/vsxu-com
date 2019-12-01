@@ -10,33 +10,33 @@ main_menu: yes
             <header class="major">
                 <h1>Download VSXu</h1>
             </header>
-            <p>
+            <p id="initial_choice">
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }} <br/>
               System Requirements: Windows 10 64-bit, Nvidia or AMD GPU<br/>
               <br/>
               <ul class="actions horizontal">
-                  <li><a href="#before_download_buttons" class="button" 
+                  <li><a href="#" class="button" 
                   onClick="
                       document.getElementById('download_player').style.display = 'block'; 
                       document.getElementById('download_artiste').style.display = 'none';
+                      document.getElementById('initial_choice').style.display = 'none';
                   "
                   >VSXu Player</a></li>
               </ul>
 
               <i>If you specifically want to create visuals, get Artiste:</i><br/>
+              <br/>
                   <ul class="actions horizontal">
-                      <li><a href="#before_download_buttons" class="button" 
+                      <li><a href="#" class="button" 
                       onClick="
                           document.getElementById('download_artiste').style.display = 'block'; 
                           document.getElementById('download_player').style.display = 'none';
+                          document.getElementById('initial_choice').style.display = 'none';
                       "
                       >VSXu Artiste</a></li>
                   </ul>
             </p>
-            <span id="before_download"></span>
-        
-            <p id="before_download_buttons">&nbsp;</p>
-
+                        
             <p id="download_player" style="display:none">
                 <span class="icon fa-windows"></span> <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">Download VSXu Player on Steam</a><br/>
                 <br/>
