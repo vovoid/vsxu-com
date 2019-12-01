@@ -72,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/download.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="612">
-                <caret line="36" column="122" selection-start-line="36" selection-start-column="122" selection-end-line="36" selection-end-column="122" />
+              <first_editor relative-caret-position="544">
+                <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -269,7 +269,7 @@
       <workItem from="1505050034638" duration="9000" />
       <workItem from="1520683697471" duration="63000" />
       <workItem from="1541960575210" duration="915000" />
-      <workItem from="1575226944703" duration="906000" />
+      <workItem from="1575226944703" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -289,7 +289,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55903000" />
+    <option name="totallyTimeSpent" value="56064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="3024" height="1742" extended-state="6" />
@@ -716,8 +716,8 @@
     <entry file="file://$PROJECT_DIR$/download.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="612">
-            <caret line="36" column="122" selection-start-line="36" selection-start-column="122" selection-end-line="36" selection-end-column="122" />
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
