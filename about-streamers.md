@@ -36,8 +36,15 @@ permalink: /about/streamers
                 but we kindly ask you to link back to us somewhere in your channel information text below the video window.
             </p>
 
+            <p>
+                As VSXu Player is distributed through Steam we have gotten the question if you can both play a game and
+                run VSXu at the same time?<br/>
+                And the answer is yes. You might have to start the second program manually by double-clicking on the EXE file though.</br>
+            </p>
+            
             <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download now!</a></li>
+              <li><a href="https://store.steampowered.com/app/981590/VSXu_Player/" class="button" 
+              >Download VSXu Player!</a></li>
             </ul>
       </div>
   </section>
