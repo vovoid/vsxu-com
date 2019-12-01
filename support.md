@@ -11,14 +11,12 @@ main_menu: yes
                 <li><a href="/support" class="button special">Support</a></li>
                 <li>|</li>
                 <li><a href="/support/commercial" class="button">Commercial Support</a></li>
-                <li><a href="/support/irc" class="button">IRC</a></li>
-                <li><a href="/support/github" class="button">Github</a></li>
             </ul>
             <header class="major">
                 <h1>Support</h1>
             </header>
             <p>
-            We provide different ways to get support.
+                We provide different ways to get support.
             </p>
             
             <p>
@@ -26,10 +24,13 @@ main_menu: yes
             </p>
 
             <p>
-            If you need personal help, please step by <a href="https://discord.gg/gD6reEb" target="_blank">our discord</a> or <a href="/support/irc">irc channel</a> and say hi but some things are better described as <a href="http://github.com/vovoid/vsxu">github issues</a>.
+            If you need personal help, please step by <a href="https://discord.gg/gD6reEb" target="_blank">our discord</a> 
+            and say hi.
+            <br/>
+            
+            Or you can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a>.
             
             Either way, we hope we have a good answer for you!
-            
 
             </p>
             
