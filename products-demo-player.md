@@ -11,7 +11,6 @@ permalink: /products/demo-player
                 <li>|</li>
                 <li><a href="/products/player" class="button">VSXu Player</a></li>
                 <li><a href="/products/artiste" class="button">VSXu Artiste</a></li>
-                <li><a href="/products/server" class="button">VSXu Server</a></li>
                 <li><a href="/products/demo-player" class="button special">VSXu Demo Player</a></li>
             </ul>
             <header class="major">

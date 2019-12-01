@@ -11,7 +11,6 @@ permalink: /products/player
                 <li>|</li>
                 <li><a href="/products/player" class="button special">VSXu Player</a></li>
                 <li><a href="/products/artiste" class="button">VSXu Artiste</a></li>
-                <li><a href="/products/server" class="button">VSXu Server</a></li>
                 <li><a href="/products/demo-player" class="button">VSXu Demo Player</a></li>
             </ul>
             <header class="major">
@@ -49,12 +48,11 @@ permalink: /products/player
               <p>
                 VSXu Player is a stand-alone program that creates inspiring, beautiful pictures to your sound and music that our artists have designed.
                 It lets you 'see' and add an additional dimension to your music. It allows you to play presets included in player, and presets you and others create using VSXu Artiste.
-                Runs on Windows XP, Vista and Windows 7.<br>
                 <br>
-                - Runs on Ubuntu GNU/Linux<br>
-                - Requires OpenGL compatible graphics card. Min 128MB.<br>
+                <br>
+                - Requires Nvidia or AMD OpenGL compatible graphics card. Min 128MB.<br>
                 - Easy to install stand-alone audio visualizer works with any music player or line-input<br>
-                - High Definition (HD) - 720p, 1080p definition runs on most standard graphics cards<br>
+                - Supports High Definition (HD) - 720p, 1080p and 4k UHD<br>
               </p>
 
               <ul class="actions horizontal">
