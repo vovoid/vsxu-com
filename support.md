@@ -17,7 +17,7 @@ main_menu: yes
             </header>
             <p>
                 "Please help, my Percutor-fluxxomat is singing 'Oh la la and a bucket of bacon!' and is dancing in a circle!"<br/>
-                <i>Didn't know it could do that... Sounds like it's working perfectly!</i>
+                <i>Didn't know it could do that... Did you try restarting it?</i>
             </p>
             
             <h2>FAQ</h2>
