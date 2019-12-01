@@ -73,8 +73,13 @@ permalink: /documentation/faq
               <h2>Streaming</h2>
               <p>
                   Most people use <a href="https://obsproject.com/">OBS</a> for recording and streaming.<br/>
-                  Nvidia Shadowplay is also useful.
               </p>
+            <h2>Streaming</h2>
+              <p>
+                  Nvidia Shadowplay can be an easy way to record, but OBS (see above) is also great albeit slightly
+                  more complicated.
+              </p>
+
           </div>
       </div>
   </section>
