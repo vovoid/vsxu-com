@@ -24,11 +24,6 @@ permalink: /documentation/changelog
                     </a>
                 </li>
                 <li>
-                    <a href="/documentation/video-tutorials" class="button">
-                        Video - Tutorials
-                    </a>
-                </li>
-                <li>
                     <a href="/documentation/changelog" class="button special">
                         Changelog
                     </a>
