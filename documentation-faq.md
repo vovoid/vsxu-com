@@ -166,7 +166,7 @@ permalink: /documentation/faq
                       <hr>
               
                       <h2 onclick="$('.question_mac').show()" style="cursor:pointer">
-                          Q: Why is there no version for Mac OSX?
+                          Q: Why is there no version for Mac?
                       </h2>
                       <div class="question_mac" style="padding-left:20px; display:none">
                           <h2>

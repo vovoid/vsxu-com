@@ -41,10 +41,10 @@ main_menu: yes
             </p>
             
             <p id="download_artiste" style="display:none">
-                <span class="icon fa-windows"></span> <a href="#" target="_blank">VSXu Artiste v0.6.3 for Windows 64-bit</a>
-                You can download the previous version of VSXu Artiste here:<br/>
+                <span class="icon fa-windows"></span> <a href="#" target="_blank">VSXu Artiste v0.6.3 for Windows 64-bit</a><br/>
+                <i>This is the previous version of VSXu Artiste.</i><br/>
                 <br/>
-                Also check out the Steam version of VSXu Player where you can get additional DLC for player:<br>
+                <b>Also check out the Steam version of VSXu Player where you can get additional DLC for player:<br>
                 <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">VSXu Player on Steam</a><br/>
             </p>
         </div>
