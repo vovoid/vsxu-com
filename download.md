@@ -38,7 +38,8 @@ main_menu: yes
 
             <p id="download_player" style="display:none">
                 <span class="icon fa-windows"></span> <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">Download VSXu Player on Steam</a><br/>
-                <i>VSXu Player is now available through Steam.</i><br/>
+                <br/>
+                <i>VSXu Player is now available through Steam!</i><br/>
                 <i>This has a number of benefits for you - including automatic updates, more visuals and new features.</i><br/>
                 <br/>
             </p>
