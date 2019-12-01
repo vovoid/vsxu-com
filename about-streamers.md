@@ -39,7 +39,7 @@ permalink: /about/streamers
             <p>
                 As VSXu Player is distributed through Steam we have gotten the question if you can both play a game and
                 run VSXu at the same time?<br/>
-                And the answer is yes. You might have to start the second program manually by double-clicking on the EXE file though.</br>
+                And the answer is yes. You might have to start the second program manually by double-clicking on the EXE file though.<br/>
             </p>
             
             <ul class="actions horizontal">
