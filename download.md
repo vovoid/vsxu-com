@@ -14,26 +14,24 @@ main_menu: yes
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }} <br/>
               System Requirements: Windows 10 64-bit, Nvidia or AMD GPU<br/>
               <br/>
-              <i>If you want to experience visuals, get Player!</i><br/>
-                          <ul class="actions horizontal">
-                              <li><a href="#before_download_buttons" class="button" 
-                              onClick="
-                                  document.getElementById('download_player').style.display = 'block'; 
-                                  document.getElementById('download_artiste').style.display = 'none';
-                              "
-                              >VSXu Player</a></li>
-                          </ul>
+              <ul class="actions horizontal">
+                  <li><a href="#before_download_buttons" class="button" 
+                  onClick="
+                      document.getElementById('download_player').style.display = 'block'; 
+                      document.getElementById('download_artiste').style.display = 'none';
+                  "
+                  >VSXu Player</a></li>
+              </ul>
 
-              <i>If you want to create visuals, get Artiste.</i>
-                          <ul class="actions horizontal">
-                              <li><a href="#before_download_buttons" class="button" 
-                              onClick="
-                                  document.getElementById('download_artiste').style.display = 'block'; 
-                                  document.getElementById('download_player').style.display = 'none';
-                              "
-                              >VSXu Artiste</a></li>
-                          </ul>
-
+              <i>If you specifically want to create visuals, get Artiste:</i><br/>
+                  <ul class="actions horizontal">
+                      <li><a href="#before_download_buttons" class="button" 
+                      onClick="
+                          document.getElementById('download_artiste').style.display = 'block'; 
+                          document.getElementById('download_player').style.display = 'none';
+                      "
+                      >VSXu Artiste</a></li>
+                  </ul>
             </p>
             <span id="before_download"></span>
         
