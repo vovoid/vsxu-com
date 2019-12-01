@@ -13,7 +13,6 @@ main_menu: yes
             <p id="initial_choice">
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }} <br/>
               System Requirements: Windows 10 64-bit, Nvidia or AMD GPU<br/>
-              <br/>
               <ul class="actions horizontal">
                   <li><a href="#" class="button" 
                   onClick="
