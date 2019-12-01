@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support-commercial.md" beforeDir="false" afterPath="$PROJECT_DIR$/support-commercial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support-github.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/support-irc.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/support.md" beforeDir="false" afterPath="$PROJECT_DIR$/support.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/support.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -317,7 +313,7 @@
       <workItem from="1505050034638" duration="9000" />
       <workItem from="1520683697471" duration="63000" />
       <workItem from="1541960575210" duration="915000" />
-      <workItem from="1575226944703" duration="3862000" />
+      <workItem from="1575226944703" duration="3927000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -337,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58859000" />
+    <option name="totallyTimeSpent" value="58924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="3024" height="1742" extended-state="6" />
@@ -783,8 +779,8 @@
     <entry file="file://$PROJECT_DIR$/support.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
