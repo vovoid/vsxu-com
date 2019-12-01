@@ -17,14 +17,15 @@ main_menu: yes
             </header>
             <p>
                 "Please help, my Percutor-fluxxomat is singing 'Oh la la and a bucket of bacon!' and is dancing in a circle!"<br/>
-                <br/>
-                Sorry about that, do you have any VSXu-related questions?
+                <i>Sorry about that, do you have any VSXu-related questions?</i>
             </p>
             
+            <h2>FAQ</h2>
             <p>
             The most common issues are gathered in our <a href="/documentation/faq">FAQ</a>, so please start there!
             </p>
 
+            <h2>Discord</h2>
             <p>
             If you need personal help, please step by <a href="https://discord.gg/gD6reEb" target="_blank">our discord</a> 
             and say hi.<br/>
