@@ -20,13 +20,13 @@ main_menu: yes
             <span id="before_download"></span>
 
             <ul class="actions horizontal">
-                <li><a href="#before_download" class="button" 
+                <li><a href="#before_download_buttons" class="button" 
                 onClick="
                     document.getElementById('download_player').style.display = 'block'; 
                     document.getElementById('download_artiste').style.display = 'none';
                 "
                 >VSXu Player</a></li>
-                <li><a href="#before_download" class="button" 
+                <li><a href="#before_download_buttons" class="button" 
                 onClick="
                     document.getElementById('download_artiste').style.display = 'block'; 
                     document.getElementById('download_player').style.display = 'none';
