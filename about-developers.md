@@ -49,7 +49,7 @@ permalink: /about/developers
             </p>
 
             <p>
-            If you are interested in helping develop or want to license the VSXu codebase, please contact us. See the support page.
+            <i>If you are interested in helping develop or want to license the VSXu codebase, please contact us. See the support page.</i>
             </p>
 
         </div>
