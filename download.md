@@ -24,15 +24,15 @@ main_menu: yes
               </ul>
               <i>If you specifically want to create visuals, get Artiste:</i><br/>
               <br/>
-                  <ul class="actions horizontal">
-                      <li><a href="#" class="button" 
-                      onClick="
-                          document.getElementById('download_artiste').style.display = 'block'; 
-                          document.getElementById('download_player').style.display = 'none';
-                          document.getElementById('initial_choice').style.display = 'none';
-                      "
-                      >VSXu Artiste</a></li>
-                  </ul>
+              <ul class="actions horizontal">
+                  <li><a href="#" class="button" 
+                  onClick="
+                      document.getElementById('download_artiste').style.display = 'block'; 
+                      document.getElementById('download_player').style.display = 'none';
+                      document.getElementById('initial_choice').style.display = 'none';
+                  "
+                  >VSXu Artiste</a></li>
+              </ul>
             </p>
                         
             <p id="download_player" style="display:none">
