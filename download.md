@@ -12,7 +12,10 @@ main_menu: yes
             </header>
             <p>
               Current Version: {{ site.current_version }} Released {{ site.current_version_date }} <br/>
-              System Requirements: Windows 10 64-bit, Nvidia or AMD GPU
+              System Requirements: Windows 10 64-bit, Nvidia or AMD GPU<br/>
+              <br/>
+              <i>If you want to experience visuals, get Player!</i><br/>
+              <i>If you want to create visuals, get Artiste.</i>
             </p>
             <span id="before_download"></span>
 
