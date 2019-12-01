@@ -56,20 +56,11 @@ permalink: /products/player
                 - Easy to install stand-alone audio visualizer works with any music player or line-input<br>
                 - High Definition (HD) - 720p, 1080p definition runs on most standard graphics cards<br>
               </p>
-                <h2>IMPORTANT NOTE - SELECTING A SOUND SOURCE FOR WINDOWS</h2>
-              <p>
-                This is to use VSXu to visualize your media player of choice - if you want to use it
-                for your Stereo or mixer, use Line-In to record.
-              </p>
-                <ul>
-                  <li>Right-click the speaker icon to the right of your task bar
-                  </li><li>Select "recording devices"
-                  </li><li>Right-click in the list (NOT on an item)
-                  </li><li>Check "Show disabled devices"
-                  </li><li>Now all depends on what sound card drivers you have. If you have "Stereo Mix" or something similar, use that for primary recording device.
-                  Microsoft (likely after pressure from the RIAA et. al.) have disabled the "Stereo Mix" device in their drivers, afraid that people would
-                  record sound off of youtube.
-                </li></ul>
+
+              <ul class="actions horizontal">
+                  <li><a href="https://store.steampowered.com/app/981590/VSXu_Player/" class="button" 
+                  >Download VSXu Player!</a></li>
+              </ul>
                           
             <h2>REMOVING TRANSITIONS</h2>
             <p>
