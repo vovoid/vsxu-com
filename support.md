@@ -31,7 +31,8 @@ main_menu: yes
             and say hi.<br/>
             <br/>
             
-            Or you can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a>.<br/>
+            <h2>Forums</h2>
+            You can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a>.<br/>
             
             Either way, we hope we have a good answer for you!
 
