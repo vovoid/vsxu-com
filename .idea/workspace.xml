@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/about-streamers.md" beforeDir="false" afterPath="$PROJECT_DIR$/about-streamers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-developers.md" beforeDir="false" afterPath="$PROJECT_DIR$/about-developers.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,12 +80,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about-streamers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="731">
                 <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about-developers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="867">
+                <caret line="51" column="131" selection-start-line="51" selection-start-column="131" selection-end-line="51" selection-end-column="131" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,15 +134,6 @@
             <state split_layout="SPLIT">
               <first_editor />
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -194,7 +197,6 @@
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/about-live-events.md" />
         <option value="$PROJECT_DIR$/about-artists.md" />
-        <option value="$PROJECT_DIR$/about-developers.md" />
         <option value="$PROJECT_DIR$/template-inner.md" />
         <option value="$PROJECT_DIR$/template.md" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
@@ -222,6 +224,7 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/about-for_music_lovers.md" />
         <option value="$PROJECT_DIR$/about-streamers.md" />
+        <option value="$PROJECT_DIR$/about-developers.md" />
       </list>
     </option>
   </component>
@@ -320,7 +323,7 @@
       <workItem from="1505050034638" duration="9000" />
       <workItem from="1520683697471" duration="63000" />
       <workItem from="1541960575210" duration="915000" />
-      <workItem from="1575226944703" duration="3067000" />
+      <workItem from="1575226944703" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -340,7 +343,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58064000" />
+    <option name="totallyTimeSpent" value="58116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="3024" height="1742" extended-state="6" />
@@ -638,16 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about-developers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about-artists.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -788,6 +781,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="731">
             <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-developers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="867">
+            <caret line="51" column="131" selection-start-line="51" selection-start-column="131" selection-end-line="51" selection-end-column="131" />
           </first_editor>
           <second_editor />
         </state>

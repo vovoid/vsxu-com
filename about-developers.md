@@ -48,9 +48,10 @@ permalink: /about/developers
              on performance.
             </p>
 
-            <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download now!</a></li>
-            </ul>
+            <p>
+            If you are interested in helping develop or want to license the VSXu codebase, please contact us. See the support page.
+            </p>
+
         </div>
     </section>
 </div>
