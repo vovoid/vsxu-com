@@ -45,7 +45,7 @@ main_menu: yes
             
             <p id="download_artiste" style="display:none">
                 <span class="icon fa-windows"></span> <a href="#" target="_blank">VSXu Artiste v0.6.3 for Windows 64-bit</a><br/>
-                <i>This is the previous version of VSXu Artiste.</i><br/>
+                <i>This is the previous version of VSXu Artiste. VSXu Artiste will be released on Steam in the future but as of now, it's a regular download.</i><br/>
                 <br/>
                 <b>Also check out the Steam version of VSXu Player</b> where you can get additional DLC for player:<br/>
                 <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">VSXu Player on Steam</a><br/>
