@@ -63,6 +63,14 @@ permalink: /documentation/faq
                 <br>
             </p>
             </div>
+     <hr>
+
+                      <h2 onclick="$('.question_recording').show()" style="cursor:pointer">
+                          Q: How do I get rid of the nag text in the corner?
+                      </h2>
+                      <div class="question_recording" style="padding-left:20px; display:none">
+                          It's there until you purchase at least one DLC pack.            
+                      </div>
             
      <hr>
               
