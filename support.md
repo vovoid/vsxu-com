@@ -17,7 +17,7 @@ main_menu: yes
             </header>
             <p>
                 "Please help, my Percutor-fluxxomat is singing 'Oh la la and a bucket of bacon!' and is dancing in a circle!"<br/>
-                <i>Not sure if we're actually sorry about that... Do you have any VSXu-related questions?</i>
+                <i>Didn't know it could do that... Sounds like it's working perfectly!</i>
             </p>
             
             <h2>FAQ</h2>
