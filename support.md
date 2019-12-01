@@ -32,10 +32,8 @@ main_menu: yes
             <br/>
             
             <h2>Forums</h2>
-            You can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a>.<br/>
+            You can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a> forums.<br/>
             
-            Either way, we hope we have a good answer for you!
-
             </p>
             
             {% include mid_ad.html %}
