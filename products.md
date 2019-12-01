@@ -24,7 +24,6 @@ main_menu: yes
             <ul>
                   <li>VSXu Player is our music/audio/sound visualizer end user program</li>
                   <li>VSXu Artiste is the creative tool to create visuals, real time art and many other things</li>
-                  <li>VSXu Server is a production environment intended for live venues</li>
                 </ul>
             
             {% include mid_ad.html %}

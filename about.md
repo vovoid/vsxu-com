@@ -38,7 +38,7 @@ main_menu: yes
             </p>
             
             <p>
-            The VSXu suite is <a href="http://fsf.org">free software</a> which means it's free from restrictions, free to share and copy, free to adapt / modify and use it any way you like.
+            VSXu is distributed free of charge with optional paid DLC which deliver extra content.
             </p>
             
             <ul class="actions horizontal">

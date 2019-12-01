@@ -20,8 +20,8 @@ permalink: /about/music-lovers
                 <h1>VSXu Player - For Music Lovers</h1>
             </header>
             <p>
-                If you enjoy listening to music, we bet you'll love a music visualizer. VSXu Player "listens" (via recording the audio) to the music you play and visualizes it, regardless of music player*.
-                It works with - iTunes, Spotify,  Winamp and others.
+                If you enjoy listening to music, we bet you'll love a music visualizer. VSXu Player "listens" (via recording the audio) to the music you play and visualizes it, regardless of music player.
+                It works with - Youtube, Spotify, Tidal and others.
             </p>
 
             <p>
@@ -45,13 +45,10 @@ permalink: /about/music-lovers
             <p>
                 Since VSXu Player records via the default sound card mixer rather than being bound to any particular media player, you can also record from Line In. Connecting your computer to your TV and running VSXu is great for parties!
             </p>
-            
-            <p>
-                *Drivers on Windows coming from Microsoft generally don't support Stereo Mix/loopback recording. You might need to install your sound card vendor drivers.
-            </p>
-            
+                        
             <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download now!</a></li>
+              <li><a href="https://store.steampowered.com/app/981590/VSXu_Player/" class="button" 
+              >Download VSXu Player!</a></li>
             </ul>
         </div>
     </section>
