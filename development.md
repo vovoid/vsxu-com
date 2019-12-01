@@ -14,15 +14,6 @@ main_menu: yes
             </header>
 
             <p>
-            This page is intended for developers.
-            </p>
-            <p>
-            Want to know a little bit about how VSXu works internally? Or do you want to contribute? VSXu is licensed under the GNU GPL license.
-            </p>
-            <p>
-            By writing "modules" - building blocks - for VSXu we can together make it better. It's dead easy, let us show you how.
-            </p>
-            <p>
             Need visualizations or an easy way to author real time OpenGL in your software?
             Then consider embedding vsxu_engine into your project! 
             </p>
