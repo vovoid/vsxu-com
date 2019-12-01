@@ -11,7 +11,7 @@ main_menu: yes
                 <h1>Download VSXu</h1>
             </header>
             <p>
-              Current Version: {{ site.current_version }} Released {{ site.current_version_date }} 
+              Current Version: {{ site.current_version }} Released {{ site.current_version_date }} <br/>
               System Requirements: Windows 10 64-bit, Nvidia or AMD GPU
             </p>
             <span id="before_download"></span>
@@ -32,10 +32,10 @@ main_menu: yes
             <p id="before_download_buttons">&nbsp;</p>
 
             <p id="download_player" style="display:none">
-                <span class="icon fa-windows"></span>
-                VSXu Player is now available through Steam.<br/>
-                This has a number of benefits for you - including automatic updates, more visuals and new features.<br/>   
-                <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">VSXu Player on Steam</a><br/>
+                <span class="icon fa-windows"></span> <a href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank">Download VSXu Player on Steam</a><br/>
+                <i>VSXu Player is now available through Steam.</i><br/>
+                <i>This has a number of benefits for you - including automatic updates, more visuals and new features.</i><br/>
+                <br/>
             </p>
             
             <p id="download_artiste" style="display:none">
