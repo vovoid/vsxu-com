@@ -27,10 +27,10 @@ main_menu: yes
 
             <p>
             If you need personal help, please step by <a href="https://discord.gg/gD6reEb" target="_blank">our discord</a> 
-            and say hi.
+            and say hi.<br/>
             <br/>
             
-            Or you can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a>.
+            Or you can write in the <a href="https://steamcommunity.com/app/981590">Steam community</a>.<br/>
             
             Either way, we hope we have a good answer for you!
 
