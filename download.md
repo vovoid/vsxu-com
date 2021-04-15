@@ -40,7 +40,7 @@ main_menu: yes
                         
             <p id="download_player" style="display:none">
                 <span class="icon fa-windows"></span> <a 
-                  href="https://store.steampowered.com/app/981590/VSXu_Player/" target="_blank"
+                  href="https://store.steampowered.com/app/981590/VSXu_Player/?utm_source=vsxu_com&campaign=download_page" target="_blank"
                   onClick="analytics.trackDownloadEvent('steam download');"
               >Download VSXu Player on Steam</a><br/>
                 <br/>
